@@ -1,2 +1,3 @@
 # Hello-world
-Ich lener GitHub
+Ich lerne GitHub
+Coole Geschichte ...bin gespannt wie es weiter geht
